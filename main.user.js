@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  grab youtube link to open
 // @author       You
-// @match        *://*.ewant.org/*
+// @match        *://*.ewant.org/mod/ewantvideo/*
 // @match        *://ewant.org/*
 // @grant        GM_setClipboard
 // ==/UserScript==
@@ -14,10 +14,10 @@
 
     // 1. Make the Button
     const btn = document.createElement("button");
-    btn.innerHTML = "👇 GET youtube LINK NOW";
+    btn.innerHTML = "👇 GET LINK NOW";
     btn.style.position = "fixed";
-    btn.style.top = "18px";
-    btn.style.left = "70%";
+    btn.style.top = "70px";
+    btn.style.left = "60%";
     btn.style.zIndex = "9999999";
     btn.style.padding = "10px 20px";
     btn.style.backgroundColor = "#e00000"; // Bright Red
@@ -48,3 +48,4 @@
     };
 
 })();
+
