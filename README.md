@@ -1,4 +1,5 @@
-# ewant_yt_link_grab
+Misc Userscripts
+
 grab yt-link
 download:
 2. Get information or install:
@@ -7,4 +8,4 @@ download:
  :----------------: | :--------: | :--------: |
  [install][cwh-raw] | 7.12.2025 | 7.12.2025 |
 
-[cwh-raw]: [https://raw.githubusercontent.com/Mangotimmy/ewant_yt_link_grab/refs/heads/main/main.user%2C.js]
+[cwh-raw]:https://raw.githubusercontent.com/Mangotimmy/ewant_yt_link_grab/refs/heads/main/main.user%2C.js
