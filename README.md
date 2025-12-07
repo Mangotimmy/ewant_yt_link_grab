@@ -20,3 +20,8 @@ video for ewant
 | [install][cwh-raw] | 7.12.2025 | 7.12.2025 |
 
 [cwh-raw]:https://github.com/Mangotimmy/ewant_yt_link_grab/raw/refs/heads/main/main.user.js
+
+
+
+Usage:
+    1.open website click video click button then copy to url bar
