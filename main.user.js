@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Manual Link Extractor (Fixed)
+// @name        ewant_link_grab
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  grab youtube link to open
