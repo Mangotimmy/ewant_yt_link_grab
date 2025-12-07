@@ -2,7 +2,7 @@
 // @name         Manual Link Extractor (Fixed)
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Adds a button to run your console code manually
+// @description  grab youtube link to open
 // @author       You
 // @match        *://*.ewant.org/*
 // @match        *://ewant.org/*
